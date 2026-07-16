@@ -16,7 +16,7 @@
 - AI yang digunakan: Claude
 - Persentase kode AI: ~45%
 - Persentase kode sendiri: ~55%
-- Jumlah interaksi: 12 prompt
+- Jumlah interaksi: 10 prompt
 
 ## Detail Interaksi
 
@@ -77,6 +77,13 @@
 - **Pelajaran:** Keputusan **tidak** memakai suatu fitur AI juga merupakan bagian penting dari tanggung jawab akademik — kelompok harus berani mengevaluasi kembali saran AI berdasarkan kesiapan sendiri untuk mempertanggungjawabkannya.
 
 ### Interaksi 9 (Minggu 16)
+- **Prompt:** "Bukankah mencari riwayat pasien lewat No. RM saja menyulitkan karena sulit diingat? Bagaimana jika ditambah opsi cari lewat NIK atau nama juga?"
+- **Respons AI:** Menambahkan fungsi pencarian dengan 3 opsi (RM/NIK/Nama) untuk fitur riwayat kunjungan, termasuk penanganan kasus nama yang cocok lebih dari satu pasien (disambiguasi).
+- **Yang digunakan:** Seluruh logika pencarian 3 opsi dan penanganan hasil ganda.
+- **Modifikasi:** Tidak ada modifikasi besar — langsung sesuai kebutuhan yang diajukan.
+- **Pelajaran:** Nama tidak unik (dua pasien berbeda bisa punya nama sama) sehingga pencarian by-nama wajib punya mekanisme konfirmasi lanjutan, tidak bisa langsung dianggap satu hasil.
+
+### Interaksi 10 (Minggu 16)
 - **Prompt:** "Bagaimana untuk pasien yang sudah pernah berobat agar tidak perlu mendaftar ulang? Tambahkan juga pencarian dengan NIK dan tampilkan riwayat penyakit sebelumnya saat pendaftaran ulang, supaya memudahkan diagnosa awal."
 - **Respons AI:** Menambahkan fungsi `cari_no_rm_pasien_lama()` (pencarian via RM/NIK/Nama, dengan disambiguasi jika nama sama), `daftar_kunjungan_ulang()`, dan `tampilkan_riwayat_singkat()`.
 - **Yang digunakan:** Seluruh logika pencarian dan alur kunjungan ulang.
