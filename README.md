@@ -7,8 +7,7 @@ Proyek Akhir — Algoritma dan Pemrograman
   1. Ivanka Widyaningrum (0112525005)
   2. Lolita Disry Mustika (0112525006)
   3. Muhammad Fajri Febriyanto (0112525008)
-  4. Muhammad Husain (0112525010)
-  5. Sahid Haqqi An Najil (0112525013)
+  4. Sahid Haqqi An Najil (0112525013)
 - Mata Kuliah: Algoritma dan Pemrograman (3 SKS)
 - Program Studi: Informatika, Universitas Al Azhar Indonesia
 - Dosen: Tri Aji Nugroho, S.T., M.T.
@@ -161,17 +160,17 @@ Total terdapat **27 fungsi** dalam program ini (termasuk fungsi pendukung/utilit
 ## Alur Penggunaan Singkat
 ```
 ╔══════════════════════════════════════════╗
-║   SISTEM ANTRIAN RUMAH SAKIT / PUSKESMAS  ║
+║          SISTEM ANTRIAN RUMAH SAKIT      ║
 ╠══════════════════════════════════════════╣
-║  1. Daftar Pasien Baru                    ║
-║  2. Panggil Pasien Berikutnya             ║
-║  3. Lihat Antrian Saat Ini                ║
-║  4. Cari Pasien                           ║
-║  5. Riwayat Kunjungan Pasien               ║
-║  6. Statistik Harian                      ║
-║  7. Laporan (Urutkan Data)                ║
-║  8. Estimasi Waktu Tunggu                 ║
-║  0. Keluar                                ║
+║  1. Daftar Pasien Baru                   ║
+║  2. Panggil Pasien Berikutnya            ║
+║  3. Lihat Antrian Saat Ini               ║
+║  4. Cari Pasien                          ║
+║  5. Riwayat Kunjungan Pasien             ║
+║  6. Statistik Harian                     ║
+║  7. Laporan (Urutkan Data)               ║
+║  8. Estimasi Waktu Tunggu                ║
+║  0. Keluar                               ║
 ╚══════════════════════════════════════════╝
 ```
 Contoh skenario: pasien lama mendaftar kunjungan ulang lewat menu 1 dengan
