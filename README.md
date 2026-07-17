@@ -70,7 +70,7 @@ python3 sistem_antrian_rs.py
 ## Struktur Proyek
 ```
 .
-├── sistem_antrian_rs.py              # Kode program utama
+├── sistem_antrian_rs.ipynb           # Kode program utama
 ├── AI_Usage_Log_Sistem_Antrian_RS.md # Log transparansi penggunaan AI
 └── README.md                         # Dokumentasi proyek (file ini)
 ```
