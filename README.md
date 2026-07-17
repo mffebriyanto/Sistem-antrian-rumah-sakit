@@ -1,5 +1,18 @@
 # Sistem Antrian Rumah Sakit 🏥
+Proyek Akhir — Algoritma dan Pemrograman
 
+## Identitas
+- Kelompok: Sistem Antrian Rumah Sakit — Kelompok 5
+- Nama Anggota:
+  1. Ivanka Widyaningrum (0112525005)
+  2. Lolita Disry Mustika (0112525006)
+  3. Muhammad Fajri Febriyanto (0112525008)
+  4. Muhammad Husain (0112525010)
+  5. Sahid Haqqi An Najil (0112525013)
+- Mata Kuliah: Algoritma dan Pemrograman (3 SKS)
+- Program Studi: Informatika, Universitas Al Azhar Indonesia
+- Dosen: Tri Aji Nugroho, S.T., M.T.
+- Semester: Genap 2025/2026
 
 ## Deskripsi
 Aplikasi konsol Python untuk mengelola antrian pasien rumah sakit/puskesmas
@@ -209,16 +222,3 @@ Berikut skenario pengujian yang telah diverifikasi berjalan sesuai desain (menga
 ## Dokumentasi Tambahan
 Riwayat lengkap proses pengembangan dan transparansi penggunaan AI selama
 proyek ini tersedia di [`AI_Usage_Log_Sistem_Antrian_RS.md`](./AI_Usage_Log_Sistem_Antrian_RS.md).
-
-## Identitas
-- Kelompok: Sistem Antrian Rumah Sakit — Kelompok 5
-- Nama Anggota:
-  1. Ivanka Widyaningrum (0112525005)
-  2. Lolita Disry Mustika (0112525006)
-  3. Muhammad Fajri Febriyanto (0112525008)
-  4. Muhammad Husain (0112525010)
-  5. Sahid Haqqi An Najil (0112525013)
-- Mata Kuliah: Algoritma dan Pemrograman (3 SKS)
-- Program Studi: Informatika, Universitas Al Azhar Indonesia
-- Dosen: Tri Aji Nugroho, S.T., M.T.
-- Semester: Genap 2025/2026
