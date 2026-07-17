@@ -1,4 +1,5 @@
-# Sistem Antrian Rumah Sakit
+# Sistem Antrian Rumah Sakit 🏥
+
 
 ## Deskripsi
 Aplikasi konsol Python untuk mengelola antrian pasien rumah sakit/puskesmas
