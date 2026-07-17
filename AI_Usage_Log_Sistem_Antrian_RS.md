@@ -6,8 +6,7 @@
   1. Ivanka Widyaningrum (0112525005)
   2. Lolita Disry Mustika (0112525006)
   3. Muhammad Fajri Febriyanto (0112525008)
-  4. Muhammad Husain (0112525010)
-  5. Sahid Haqqi An Najil (0112525013)
+  4. Sahid Haqqi An Najil (0112525013)
 - Proyek: Sistem Antrian Rumah Sakit
 - Tanggal mulai: 13 Juni 2026
 - Tanggal selesai: 17 Juli 2026
